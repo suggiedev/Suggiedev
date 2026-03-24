@@ -13,9 +13,10 @@ dev in progress • clean code
 ---
 
 ## ❤︎ about me
-- 💻 learning programming step by step  
-- 🌙 focused on growth & consistency  
-- ✨ interested in tech + creativity  
+i’m a software developer in progress, focused on building clean, well-structured and visually pleasing projects.  
+i’m especially interested in combining aesthetic design with programming, creating experiences that are both functional and beautiful.  
+
+currently learning and improving my skills step by step, with consistency, curiosity and attention to detail.  
 
 ---
 
